@@ -1,2 +1,2 @@
-# Git course
-this is a git course
+# git commands
+this is a git commands
